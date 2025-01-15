@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Source_KiemThe\\Source\\Client3\\KiemTheClient_New15P\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB6245-6E0C-149B-150F-C2F6CD66E483}|Assembly-CSharp.csproj|d:\\source_kiemthe\\source\\client3\\kiemtheclient_new15p\\assets\\scripts\\fsplay\\kiemvu\\ui\\main\\bag\\uibag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DCB6245-6E0C-149B-150F-C2F6CD66E483}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsplay\\kiemvu\\ui\\main\\bag\\uibag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB6245-6E0C-149B-150F-C2F6CD66E483}|Assembly-CSharp.csproj|d:\\source_kiemthe\\source\\client3\\kiemtheclient_new15p\\assets\\scripts\\fsplay\\kiemvu\\ui\\main\\roleinfo\\uiroleinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DCB6245-6E0C-149B-150F-C2F6CD66E483}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsplay\\kiemvu\\ui\\main\\roleinfo\\uiroleinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB6245-6E0C-149B-150F-C2F6CD66E483}|Assembly-CSharp.csproj|d:\\source_kiemthe\\source\\client3\\kiemtheclient_new15p\\assets\\scripts\\fsplay\\kiemvu\\ui\\main\\mainui\\bottombar\\uibottombar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DCB6245-6E0C-149B-150F-C2F6CD66E483}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsplay\\kiemvu\\ui\\main\\mainui\\bottombar\\uibottombar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB6245-6E0C-149B-150F-C2F6CD66E483}|Assembly-CSharp.csproj|d:\\source_kiemthe\\source\\client3\\kiemtheclient_new15p\\assets\\scripts\\fsplay\\kiemvu\\logic\\playzone\\playzone_ui_bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DCB6245-6E0C-149B-150F-C2F6CD66E483}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsplay\\kiemvu\\logic\\playzone\\playzone_ui_bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB6245-6E0C-149B-150F-C2F6CD66E483}|Assembly-CSharp.csproj|D:\\Source_KiemThe\\Source\\Client3\\KiemTheClient_New15P\\assets\\scripts\\fsplay\\kiemvu\\ui\\main\\welfare\\recharge\\uiwelfare_recharge_itemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DCB6245-6E0C-149B-150F-C2F6CD66E483}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsplay\\kiemvu\\ui\\main\\welfare\\recharge\\uiwelfare_recharge_itemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB6245-6E0C-149B-150F-C2F6CD66E483}|Assembly-CSharp.csproj|d:\\source_kiemthe\\source\\client3\\kiemtheclient_new15p\\assets\\scripts\\fsplay\\kiemvu\\logic\\playzone\\playzone_network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DCB6245-6E0C-149B-150F-C2F6CD66E483}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsplay\\kiemvu\\logic\\playzone\\playzone_network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UIBottomBar.cs",
+              "DocumentMoniker": "D:\\Source_KiemThe\\Source\\Client3\\KiemTheClient_New15P\\Assets\\Scripts\\FSPlay\\KiemVu\\UI\\Main\\MainUI\\BottomBar\\UIBottomBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FSPlay\\KiemVu\\UI\\Main\\MainUI\\BottomBar\\UIBottomBar.cs",
+              "ToolTip": "D:\\Source_KiemThe\\Source\\Client3\\KiemTheClient_New15P\\Assets\\Scripts\\FSPlay\\KiemVu\\UI\\Main\\MainUI\\BottomBar\\UIBottomBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FSPlay\\KiemVu\\UI\\Main\\MainUI\\BottomBar\\UIBottomBar.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAAALwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:52:18.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayZone_UI_Bag.cs",
+              "DocumentMoniker": "D:\\Source_KiemThe\\Source\\Client3\\KiemTheClient_New15P\\Assets\\Scripts\\FSPlay\\KiemVu\\Logic\\PlayZone\\PlayZone_UI_Bag.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FSPlay\\KiemVu\\Logic\\PlayZone\\PlayZone_UI_Bag.cs",
+              "ToolTip": "D:\\Source_KiemThe\\Source\\Client3\\KiemTheClient_New15P\\Assets\\Scripts\\FSPlay\\KiemVu\\Logic\\PlayZone\\PlayZone_UI_Bag.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FSPlay\\KiemVu\\Logic\\PlayZone\\PlayZone_UI_Bag.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAiwJcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T04:41:07.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIBag.cs",
+              "DocumentMoniker": "D:\\Source_KiemThe\\Source\\Client3\\KiemTheClient_New15P\\Assets\\Scripts\\FSPlay\\KiemVu\\UI\\Main\\Bag\\UIBag.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FSPlay\\KiemVu\\UI\\Main\\Bag\\UIBag.cs",
+              "ToolTip": "D:\\Source_KiemThe\\Source\\Client3\\KiemTheClient_New15P\\Assets\\Scripts\\FSPlay\\KiemVu\\UI\\Main\\Bag\\UIBag.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FSPlay\\KiemVu\\UI\\Main\\Bag\\UIBag.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:59:18.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIRoleInfo.cs",
+              "DocumentMoniker": "D:\\Source_KiemThe\\Source\\Client3\\KiemTheClient_New15P\\Assets\\Scripts\\FSPlay\\KiemVu\\UI\\Main\\RoleInfo\\UIRoleInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FSPlay\\KiemVu\\UI\\Main\\RoleInfo\\UIRoleInfo.cs",
+              "ToolTip": "D:\\Source_KiemThe\\Source\\Client3\\KiemTheClient_New15P\\Assets\\Scripts\\FSPlay\\KiemVu\\UI\\Main\\RoleInfo\\UIRoleInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FSPlay\\KiemVu\\UI\\Main\\RoleInfo\\UIRoleInfo.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAwIkBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:16:04.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayZone_Network.cs",
+              "DocumentMoniker": "D:\\Source_KiemThe\\Source\\Client3\\KiemTheClient_New15P\\Assets\\Scripts\\FSPlay\\KiemVu\\Logic\\PlayZone\\PlayZone_Network.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FSPlay\\KiemVu\\Logic\\PlayZone\\PlayZone_Network.cs",
+              "ToolTip": "D:\\Source_KiemThe\\Source\\Client3\\KiemTheClient_New15P\\Assets\\Scripts\\FSPlay\\KiemVu\\Logic\\PlayZone\\PlayZone_Network.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FSPlay\\KiemVu\\Logic\\PlayZone\\PlayZone_Network.cs",
+              "ViewState": "AgIAALgMAAAAAAAAAADwv78MAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:21:23.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIWelfare_Recharge_ItemList.cs",
+              "DocumentMoniker": "D:\\Source_KiemThe\\Source\\Client3\\KiemTheClient_New15P\\Assets\\Scripts\\FSPlay\\KiemVu\\UI\\Main\\Welfare\\Recharge\\UIWelfare_Recharge_ItemList.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FSPlay\\KiemVu\\UI\\Main\\Welfare\\Recharge\\UIWelfare_Recharge_ItemList.cs",
+              "ToolTip": "D:\\Source_KiemThe\\Source\\Client3\\KiemTheClient_New15P\\Assets\\Scripts\\FSPlay\\KiemVu\\UI\\Main\\Welfare\\Recharge\\UIWelfare_Recharge_ItemList.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FSPlay\\KiemVu\\UI\\Main\\Welfare\\Recharge\\UIWelfare_Recharge_ItemList.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAqwJ4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T07:36:26.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

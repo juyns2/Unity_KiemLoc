@@ -1,0 +1,8 @@
+﻿<Config URL="https://cdn.kiemloc.com/">
+  <CdnUrl Url="https://cdn.kiemloc.com/" />
+  <Application VerText="KiemLoc" VerCode="5" />
+  <Resource VerText="KiemLoc" VerCode="1" />
+  <LoadingResourceScreen FileName="Data/Resources/UI/LoadingResources.unity3d" MD5="d74fd7ea64e7e39d0761f3593d8955582" />
+  <Store AppsIosUrl="https://kiemloc.com" AppsAndroidUrl="https://kiemloc.com/app/kiemloc.apk" Msg="Đã có phiên bản mới. Vui lòng tải về và cài đè lên phiên bản hiện tại để có được trải nghiệm tốt nhất." />
+  <UpdateInfo PushVoiceUrl="https://sdk.kiemloc.com/ChatVoiceService.aspx" GetVoiceUrl="https://sdk.kiemloc.com/GetVoiceChat.aspx" ServerListUrl="https://sdk.kiemloc.com/GetServerListTest.aspx" ServerListUrlBackUp="https://sdk.kiemloc.com/GetServerListTest.aspx" VerifyAccountSDK="https://sdk.kiemloc.com/VerifyAccount.aspx" LoginAccountSDK="https://sdk.kiemloc.com/LoginSDK.aspx" RegisterAccountSDK="https://sdk.kiemloc.com/RegisterSDK.aspx" FileUpdateUrl="UpdateList.xml" />
+</Config>
